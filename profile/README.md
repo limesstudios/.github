@@ -14,7 +14,7 @@
 
 ### 🍋 Chi siamo
 
-**Lime & Studios** è uno studio che costruisce progetti **open source**, con cura per il codice pulito e per le community che li usano.
+**Lime & Studios** è uno studio che costruisce progetti **open source** e **closed source**, con cura per il codice pulito e per le community che li usano.
 
 ---
 
@@ -39,5 +39,3 @@ I contributi sono benvenuti su tutti i nostri repo pubblici. Apri una issue o un
 <p align="center">
   <a href="https://discord.gg/aquaticmc"><img src="https://img.shields.io/badge/-Discord-1a1a1a?style=flat-square&logo=discord&logoColor=D2FF00" /></a>
 </p>
-
-<p align="center"><i>🍋 Lime & Studios — Where a lime encounters a studio.</i></p>
